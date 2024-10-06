@@ -1,3 +1,4 @@
 const website = {
-    background: "red"
+    background: "red",
+    image1: 'src1',
 }
